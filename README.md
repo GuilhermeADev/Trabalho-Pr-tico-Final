@@ -25,16 +25,16 @@ Projeto desenvolvido como trabalho prático da disciplina de Redes de Computador
 - VS Code recomendado com extensão C# da Microsoft
 
 ### ⚙️ Clonando o repositório
-git clone https://github.com/GuilhermeADev/Trabalho-Pr-tico-Final.git
-cd seu-repositorio
+- git clone https://github.com/GuilhermeADev/Trabalho-Pr-tico-Final.git
+- cd seu-repositorio
 
 ▶️ Executando o Servidor
-cd BlackjackServer
-dotnet run
+- cd BlackjackServer
+- dotnet run
 
 ▶️ Executando o Cliente (em outro terminal)
-cd BlackjackClient
-dotnet run
+- cd BlackjackClient
+- dotnet run
 
 🔄 Protocolo de Comunicação
 ENTRAR:<nome> — Cliente → Servidor: entra no jogo
