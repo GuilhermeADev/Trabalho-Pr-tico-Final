@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abed4\\OneDrive\\Documentos\\Rede de computadores\\BlackjackServer\\BlackjackServer.csproj",
+      "projectUniqueName": "C:\\Program Files (x86)\\Rede de computadores\\Trabalho Prático Final\\BlackjackServer\\BlackjackServer.csproj",
       "projectName": "BlackjackServer",
-      "projectPath": "C:\\Users\\Abed4\\OneDrive\\Documentos\\Rede de computadores\\BlackjackServer\\BlackjackServer.csproj",
+      "projectPath": "C:\\Program Files (x86)\\Rede de computadores\\Trabalho Prático Final\\BlackjackServer\\BlackjackServer.csproj",
       "packagesPath": "C:\\Users\\Abed4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abed4\\OneDrive\\Documentos\\Rede de computadores\\BlackjackServer\\obj\\",
+      "outputPath": "C:\\Program Files (x86)\\Rede de computadores\\Trabalho Prático Final\\BlackjackServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abed4\\AppData\\Roaming\\NuGet\\NuGet.Config",

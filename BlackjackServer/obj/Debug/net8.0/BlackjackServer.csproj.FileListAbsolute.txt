@@ -12,3 +12,18 @@ C:\Users\Abed4\OneDrive\Documentos\Rede de computadores\BlackjackServer\obj\Debu
 C:\Users\Abed4\OneDrive\Documentos\Rede de computadores\BlackjackServer\obj\Debug\net8.0\BlackjackServer.pdb
 C:\Users\Abed4\OneDrive\Documentos\Rede de computadores\BlackjackServer\obj\Debug\net8.0\BlackjackServer.genruntimeconfig.cache
 C:\Users\Abed4\OneDrive\Documentos\Rede de computadores\BlackjackServer\obj\Debug\net8.0\ref\BlackjackServer.dll
+C:\Program Files (x86)\Rede de computadores\Trabalho Prático Final\BlackjackServer\bin\Debug\net8.0\BlackjackServer.exe
+C:\Program Files (x86)\Rede de computadores\Trabalho Prático Final\BlackjackServer\bin\Debug\net8.0\BlackjackServer.deps.json
+C:\Program Files (x86)\Rede de computadores\Trabalho Prático Final\BlackjackServer\bin\Debug\net8.0\BlackjackServer.runtimeconfig.json
+C:\Program Files (x86)\Rede de computadores\Trabalho Prático Final\BlackjackServer\bin\Debug\net8.0\BlackjackServer.dll
+C:\Program Files (x86)\Rede de computadores\Trabalho Prático Final\BlackjackServer\bin\Debug\net8.0\BlackjackServer.pdb
+C:\Program Files (x86)\Rede de computadores\Trabalho Prático Final\BlackjackServer\obj\Debug\net8.0\BlackjackServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Rede de computadores\Trabalho Prático Final\BlackjackServer\obj\Debug\net8.0\BlackjackServer.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Rede de computadores\Trabalho Prático Final\BlackjackServer\obj\Debug\net8.0\BlackjackServer.AssemblyInfo.cs
+C:\Program Files (x86)\Rede de computadores\Trabalho Prático Final\BlackjackServer\obj\Debug\net8.0\BlackjackServer.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Rede de computadores\Trabalho Prático Final\BlackjackServer\obj\Debug\net8.0\BlackjackServer.sourcelink.json
+C:\Program Files (x86)\Rede de computadores\Trabalho Prático Final\BlackjackServer\obj\Debug\net8.0\BlackjackServer.dll
+C:\Program Files (x86)\Rede de computadores\Trabalho Prático Final\BlackjackServer\obj\Debug\net8.0\refint\BlackjackServer.dll
+C:\Program Files (x86)\Rede de computadores\Trabalho Prático Final\BlackjackServer\obj\Debug\net8.0\BlackjackServer.pdb
+C:\Program Files (x86)\Rede de computadores\Trabalho Prático Final\BlackjackServer\obj\Debug\net8.0\BlackjackServer.genruntimeconfig.cache
+C:\Program Files (x86)\Rede de computadores\Trabalho Prático Final\BlackjackServer\obj\Debug\net8.0\ref\BlackjackServer.dll

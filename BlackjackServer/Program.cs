@@ -31,10 +31,22 @@ class Program
     {
         while (true)
         {
-            IPEndPoint client = new IPEndPoint(IPAddress.Any, 0);
-            string msg = Encoding.UTF8.GetString(server.Receive(ref client));
-            Console.WriteLine($"Recebido de {client}: {msg}");
-            ProcessMessage(msg, client);
+            try
+            {
+                IPEndPoint client = new IPEndPoint(IPAddress.Any, 0);
+                string msg = Encoding.UTF8.GetString(server.Receive(ref client));
+                Console.WriteLine($"Recebido de {client}: {msg}");
+                ProcessMessage(msg, client);
+            }
+            catch (SocketException ex)
+            {
+                Console.WriteLine($"[Erro de Socket] Código {ex.ErrorCode}: {ex.Message}");
+                continue;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"[Erro inesperado]: {ex.Message}");
+            }
         }
     }
 
